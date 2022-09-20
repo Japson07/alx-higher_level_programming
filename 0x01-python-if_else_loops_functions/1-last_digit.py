@@ -8,4 +8,4 @@ elif last_digit == 0:
     result = "0"
 else:
     result = "less than 6 and not 0"
-print(f"Last digit of {number:d}", f"is {last_digit:d} and is ", result)
+print(f"Last digit of {number:d}", f"is {last_digit:d} and is", result)

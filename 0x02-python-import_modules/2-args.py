@@ -10,4 +10,4 @@ if __name__ == "__main__":
     else:
         print("s:")
     for num in range(1, argc + 1):
-        print("{:d} : {:s}".format(num, argv[num]))
+        print("{:d}: {:s}".format(num, argv[num]))
